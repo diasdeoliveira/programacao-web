@@ -5,7 +5,7 @@ import HomeWork1 from './pages/HomeWork1'
 const MainRoutes = () => (
   <Switch>
     <Route path="/" exact component={Home} />
-    <Route path="/atividade-1" component={HomeWork1} />
+    <Route path="/Atividade-1" component={HomeWork1} />
   </Switch>
 )
 

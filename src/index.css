@@ -4,6 +4,7 @@
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: brown;
 }
 
 html {
@@ -12,10 +13,6 @@ html {
 
 a {
   text-decoration: none;
-}
-
-li {
-  list-style: none;
 }
 
 body {
