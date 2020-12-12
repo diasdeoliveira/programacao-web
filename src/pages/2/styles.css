@@ -1,0 +1,62 @@
+main {
+    max-width: 72rem;
+    margin: 0 auto;
+  }
+  
+  a {
+    font-size: 1.3rem;
+  }
+  
+  a:first-child {
+    margin-right: 0.7rem;
+  }
+  
+  img {
+    width: 28rem;
+    height: 24rem;
+    margin-right: 3.1rem;
+  }
+  
+  .info {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 1.2rem;
+  }
+  
+  h1 {
+    margin-bottom: 1.2rem;
+  }
+  
+  h2 {
+    font-weight: normal;
+    font-size: 1.7rem;
+  }
+  
+  h2:first-of-type {
+    margin-bottom: 1.5rem;
+  }
+  
+  table {
+    margin-top: 1.4rem;
+    width: 100%;
+    table-layout: fixed;
+    font-size: 1.1rem;
+  }
+  
+  th:nth-child(even) {
+    background-color: rgb(228, 228, 228);
+  }
+  
+  th:nth-child(odd) {
+    background-color: #ccc;
+  }
+  
+  .mail {
+    margin-top: 0.8rem;
+    text-align: center;
+    background-color: rgb(235, 224, 224);
+  }
+  
+  span {
+    font-size: 1.5rem;
+  }
